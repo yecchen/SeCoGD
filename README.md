@@ -25,6 +25,9 @@ pip install gensim
 
 ## Dataset
 
+Download data from the shared link: https://drive.google.com/file/d/12sREjxkVQnadCBysqYHz_2DXSINclBvt/view?usp=sharing
+
+
 The input data files need to be unzipped first:
 ```
 unzip data.zip
